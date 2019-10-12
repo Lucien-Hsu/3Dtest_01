@@ -1,4 +1,0 @@
-C:\Users\User\Documents\3Dtest_01\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\User\Documents\3Dtest_01\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Unity\3Dtest_01\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\User\Documents\Unity\3Dtest_01\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
